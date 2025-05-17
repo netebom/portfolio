@@ -7,7 +7,7 @@
 - **Tools**: Python, SQL, Power BI
 - **Summary**: Explores investment trends in Indian startups from 2018 to 2021.
 - **Impact**: Helped identify high-growth sectors and locations for investors.
-📄 [Indian Startup Summary](./project_summaries/Indian_Startup_Summary.docx) 
+- 📄 [Indian Startup Summary](./project_summaries/Indian_Startup_Summary.docx) 
   
 
 ### [Mortality Trends in Africa](https://github.com/netebom/mortality_indicators_in_Africa)
@@ -17,4 +17,4 @@
 - **Tools**: Python, Pandas, Matplotlib, Seaborn
 - **Summary**: Analyzes mortality and immunization trends across African countries.
 - **Impact**: Supports NGOs in prioritizing healthcare investments.
-📄 [Africa Mortality Summary](./project_summaries/Africa_Mortality_Summary.docx)
+- 📄 [Africa Mortality Summary](./project_summaries/Africa_Mortality_Summary.docx)
